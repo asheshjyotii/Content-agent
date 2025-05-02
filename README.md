@@ -1,2 +1,7 @@
 # Company-Website
-Company Website using Streamlit
+## Todo
+- [ ] Headers
+-  [ ] Details
+---
+## Completed
+- [x] 
